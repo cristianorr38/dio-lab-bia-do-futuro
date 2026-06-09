@@ -5,17 +5,17 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-O agente ajuda pessoas que têm dificuldade em acompanhar seus gastos diários, evitando que percam o controle do orçamento e acabem endividadas. Ele resolve a falta de visibilidade sobre onde o dinheiro está sendo gasto e a ausência de disciplina financeira.
+O agente ajuda pessoas que têm dificuldade em acompanhar seus gastos diários, evitando que percam o controle do orçamento e acabem endividadas. Ele resolve a falta de visibilidade sobre onde o dinheiro está sendo gasto e a ausência de disciplina financeira. Também permite o usuário aprender a investir o seu dinheiro para construção de um patrimônio financeiro duradouro.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-O agente monitora transações, categoriza despesas automaticamente e envia alertas quando o usuário ultrapassa limites definidos. Além disso, sugere ajustes no orçamento e fornece relatórios semanais e mensais para apoiar decisões financeiras conscientes. Esse agente é ideal para quem busca disciplina e clareza no controle de gastos.
+O agente monitora transações, categoriza despesas automaticamente e envia alertas quando o usuário ultrapassa limites definidos. Além disso, sugere ajustes no orçamento e fornece relatórios semanais e mensais para apoiar decisões financeiras conscientes. Esse agente é ideal para quem busca disciplina e clareza no controle de gastos, bem como permite aprender a fazer o dinheiro multiplicar ao longo do tempo.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-Indivíduos que desejam organizar suas finanças pessoais, jovens adultos iniciando a vida financeira, famílias que precisam controlar gastos domésticos e pequenos empreendedores que querem separar despesas pessoais das empresariais.
+Indivíduos que desejam organizar suas finanças pessoais, jovens adultos iniciando a vida financeira, famílias que precisam controlar gastos domésticos, pessoas que querem ter uma reserva financeira para o futuro e pequenos empreendedores que querem separar despesas pessoais das empresariais.
 
 ---
 
@@ -72,7 +72,7 @@ flowchart TD
 
 ### Estratégias Adotadas
 
-- [x] Agente baseado em dados fornecidos pelo usuário
+- [ ] Agente baseado em dados fornecidos pelo usuário
 - [ ] Respostas sempre com fontes disponíveis
 - [ ] Admissão de limitações e redirecionamento para alternativas
 - [ ] Sem recomendações de investimento sem perfil do cliente
