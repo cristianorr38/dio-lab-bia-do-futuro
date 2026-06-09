@@ -25,7 +25,7 @@ REGRAS:
 
 ### Cenário 1: [Nome do cenário]
 
-**Contexto:** [Situação do cliente]
+**Contexto:** Uso da base de conhecimento
 
 **Usuário:**
 ```
