@@ -259,8 +259,10 @@ Produtos financeiros (data/produtos_financeiros.json):
 
 > Mostre um exemplo de como os dados são formatados para o agente.
 
+O exemplo de contexto exibido abaixo, baseado nos dados originais da base de conhecimento, sintetiza as informações mais relevantes, permitindo assim a econômia de tokens. Porém, o mais importante é ter todoas as informações relevantes disponíveis em seu contexto.
+
 ```
-Dados do Usuárioe e Perfil
+Dados do Usuárioe e Perfil:
 - Nome: João Silva, 32 anos
 - Profissão: Analista de Sistemas
 - Renda mensal: R$ 5.000,00
@@ -269,57 +271,34 @@ Dados do Usuárioe e Perfil
 - Perfil investidor: Moderado (não aceita risco)
 - Objetivo principal: Construir reserva de emergência
 - Metas financeiras:
-- Completar reserva de emergência (R$ 15.000, prazo: jun/2026)
-- Entrada de apartamento (R$ 50.000, prazo: dez/2027)
+    - Completar reserva de emergência (R$ 15.000, prazo: jun/2026)
+    - Entrada de apartamento (R$ 50.000, prazo: dez/2027)
 
-Transações Recentes (Outubro/2025)
+Transações Recentes (Outubro/2025):
+- Receita: Salário R$ 5.000,00
+- Principais despesas:
+- Moradia: Aluguel R$ 1.200, Luz R$ 180
+- Alimentação: Supermercado R$ 450, Restaurante R$ 120
+- Lazer: Netflix R$ 55,90
+- Saúde: Farmácia R$ 89, Academia R$ 99
+- Transporte: Uber R$ 45, Combustível R$ 250
 
-    Receita: Salário R$ 5.000,00
+Histórico de Atendimento:
+- Perguntas sobre CDB e Tesouro Selic
+- Problema técnico no app resolvido
+- Acompanhamento de metas financeiras (reserva de emergência)
+- Atualização cadastral (e-mail e telefone)
 
-    Principais despesas:
+Gastos Mensais (2025):
+- Contas fixas: Luz (R$ 230 → R$ 290 ao longo do ano), Água (R$ 110 → R$ 140), Internet (R$ 95 → R$ 120), Celular (R$ 75 → R$ 100)
+- Combustível: Crescente de R$ 500 (jan) até R$ 720 (dez)
+- Supermercado: R$ 1.400 (jan) até R$ 1.750 (dez)
+- Passeios: Viagens pontuais (até R$ 2.500), gastos recorrentes em shopping e praia
 
-        Moradia: Aluguel R$ 1.200, Luz R$ 180
-
-        Alimentação: Supermercado R$ 450, Restaurante R$ 120
-
-        Lazer: Netflix R$ 55,90
-
-        Saúde: Farmácia R$ 89, Academia R$ 99
-
-        Transporte: Uber R$ 45, Combustível R$ 250
-
-📞 Histórico de Atendimento
-
-    Perguntas sobre CDB e Tesouro Selic
-
-    Problema técnico no app resolvido
-
-    Acompanhamento de metas financeiras (reserva de emergência)
-
-    Atualização cadastral (e-mail e telefone)
-
-📊 Gastos Mensais (2025)
-
-    Contas fixas: Luz (R$ 230 → R$ 290 ao longo do ano), Água (R$ 110 → R$ 140), Internet (R$ 95 → R$ 120), Celular (R$ 75 → R$ 100)
-
-    Combustível: Crescente de R$ 500 (jan) até R$ 720 (dez)
-
-    Supermercado: R$ 1.400 (jan) até R$ 1.750 (dez)
-
-    Passeios: Viagens pontuais (até R$ 2.500), gastos recorrentes em shopping e praia
-
-📈 Produtos Financeiros Disponíveis
-
-    Tesouro Selic: Renda fixa, risco baixo, aporte mínimo R$ 30, indicado para reserva de emergência
-
-    CDB Liquidez Diária: Renda fixa, risco baixo, aporte mínimo R$ 100, rendimento diário
-
-    LCI/LCA: Renda fixa, risco baixo, aporte mínimo R$ 1.000, isento de IR, prazo mínimo 90 dias
-
-    Fundos Imobiliários: Risco médio, rentabilidade 6–12% a.a., aporte entre R$ 10 e R$ 100, indicado para perfil moderado
-
-    Fundos de Ações: Risco alto, rentabilidade variável, aporte mínimo R$ 100, indicado para perfil arrojado
-
-
-...
+Produtos Financeiros Disponíveis:
+- Tesouro Selic: Renda fixa, risco baixo, aporte mínimo R$ 30, indicado para reserva de emergência
+- CDB Liquidez Diária: Renda fixa, risco baixo, aporte mínimo R$ 100, rendimento diário
+- LCI/LCA: Renda fixa, risco baixo, aporte mínimo R$ 1.000, isento de IR, prazo mínimo 90 dias
+- Fundos Imobiliários: Risco médio, rentabilidade 6–12% a.a., aporte entre R$ 10 e R$ 100, indicado para perfil moderado
+- Fundos de Ações: Risco alto, rentabilidade variável, aporte mínimo R$ 100, indicado para perfil arrojado
 ```
