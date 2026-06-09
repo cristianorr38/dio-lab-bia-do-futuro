@@ -63,7 +63,7 @@ with open("perfil_investidor.json", encoding="utf-8") as f:
 > Os dados vão no system prompt? São consultados dinamicamente?
 
 ```text
-Perfil do usuário:
+Dados edo usuário e Perfil:
 {
   "nome": "João Silva",
   "idade": 32,
@@ -110,53 +110,7 @@ data,canal,tema,resumo,resolvido
 2025-10-25,email,Atualização cadastral,Cliente atualizou e-mail e telefone,sim
 
 Gastos do usuário:
-Categoria,Nome,Valor
-Contas,Luz - Janeiro,230.00
-Contas,Água - Janeiro,110.00
-Contas,Internet - Janeiro,95.00
-Contas,Celular - Janeiro,75.00
-Contas,Luz - Fevereiro,240.00
-Contas,Água - Fevereiro,115.00
-Contas,Internet - Fevereiro,100.00
-Contas,Celular - Fevereiro,80.00
-Contas,Luz - Março,250.00
-Contas,Água - Março,120.00
-Contas,Internet - Março,105.00
-Contas,Celular - Março,85.00
----
-Combustível,Gasolina - Janeiro,500.00
-Combustível,Gasolina - Fevereiro,520.00
-Combustível,Gasolina - Março,540.00
-Combustível,Gasolina - Abril,560.00
-Combustível,Gasolina - Maio,580.00
-Combustível,Gasolina - Junho,600.00
-Combustível,Gasolina - Julho,620.00
-Combustível,Gasolina - Agosto,640.00
-Combustível,Gasolina - Setembro,660.00
-Combustível,Gasolina - Outubro,680.00
-Combustível,Gasolina - Novembro,700.00
-Combustível,Gasolina - Dezembro,720.00
----
-Mercado,Supermercado - Janeiro,1400.00
-Mercado,Supermercado - Fevereiro,1450.00
-Mercado,Supermercado - Março,1500.00
-Mercado,Supermercado - Abril,1520.00
-Mercado,Supermercado - Maio,1550.00
-Mercado,Supermercado - Junho,1580.00
-Mercado,Supermercado - Julho,1600.00
-Mercado,Supermercado - Agosto,1620.00
-Mercado,Supermercado - Setembro,1650.00
-Mercado,Supermercado - Outubro,1680.00
-Mercado,Supermercado - Novembro,1700.00
-Mercado,Supermercado - Dezembro,1750.00
----
-Passeios,Viagem - Janeiro,1800.00
-Passeios,Shopping - Janeiro,250.00
-Passeios,Praia - Janeiro,120.00
-Passeios,Shopping - Fevereiro,280.00
-Passeios,Viagem - Março,2200.00
-Passeios,Praia - Março,180.00
----
+
 
 Produtos financeiros:
 [
