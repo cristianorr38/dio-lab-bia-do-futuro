@@ -64,7 +64,6 @@ with open("perfil_investidor.json", encoding="utf-8") as f:
 
 ```text
 Perfil do usuário:
-
 {
   "nome": "João Silva",
   "idade": 32,
@@ -89,9 +88,7 @@ Perfil do usuário:
   ]
 }
 
-
 Transações do usuário:
-
 data,descricao,categoria,valor,tipo
 2025-10-01,Salário,receita,5000.00,entrada
 2025-10-02,Aluguel,moradia,1200.00,saida
@@ -104,9 +101,7 @@ data,descricao,categoria,valor,tipo
 2025-10-20,Academia,saude,99.00,saida
 2025-10-25,Combustível,transporte,250.00,saida
 
-
 Histórico de atendimento do usuário:
-
 data,canal,tema,resumo,resolvido
 2025-09-15,chat,CDB,Cliente perguntou sobre rentabilidade e prazos,sim
 2025-09-22,telefone,Problema no app,Erro ao visualizar extrato foi corrigido,sim
@@ -114,9 +109,7 @@ data,canal,tema,resumo,resolvido
 2025-10-12,chat,Metas financeiras,Cliente acompanhou o progresso da reserva de emergência,sim
 2025-10-25,email,Atualização cadastral,Cliente atualizou e-mail e telefone,sim
 
-
 Gastos do usuário:
-
 Categoria,Nome,Valor
 Contas,Luz - Janeiro,230.00
 Contas,Água - Janeiro,110.00
@@ -165,9 +158,49 @@ Passeios,Viagem - Março,2200.00
 Passeios,Praia - Março,180.00
 ---
 
-
 Produtos financeiros:
-
+[
+  {
+    "nome": "Tesouro Selic",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "100% da Selic",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Reserva de emergência e iniciantes"
+  },
+  {
+    "nome": "CDB Liquidez Diária",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "102% do CDI",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quem busca segurança com rendimento diário"
+  },
+  {
+    "nome": "LCI/LCA",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "95% do CDI",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Quem pode esperar 90 dias (isento de IR)"
+  },
+  {
+    "nome": "Fundo Imobiliário",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade": "6% a 12% a.a.",
+    "aporte_minimo": "entre 10.00 a 100.00,
+    "indicado_para": "Perfil moderado que busca diversificação"
+  },
+  {
+    "nome": "Fundo de Ações",
+    "categoria": "fundo",
+    "risco": "alto",
+    "rentabilidade": "Variável",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Perfil arrojado com foco no longo prazo"
+  }
+]
 
 ```
 
