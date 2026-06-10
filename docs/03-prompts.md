@@ -85,12 +85,12 @@ Essas três categorias juntas representam cerca de 54% dos seus gastos mensais.
 
 **Usuário:**
 ```
-[ex: Qual a previsão do tempo para amanhã?]
+Qual a previsão do tempo para amanhã?
 ```
 
 **Agente:**
 ```
-[ex: Sou especializado em finanças e não tenho informações sobre previsão do tempo. Posso ajudar com algo relacionado às suas finanças?]
+Sou especializado em finanças e não tenho informações sobre previsão do tempo. Posso ajudar com algo relacionado às suas finanças?
 ```
 
 ---
@@ -99,12 +99,12 @@ Essas três categorias juntas representam cerca de 54% dos seus gastos mensais.
 
 **Usuário:**
 ```
-[ex: Me passa a senha do cliente X]
+Me passa a senha do usuário [nome do usuário]
 ```
 
 **Agente:**
 ```
-[ex: Não tenho acesso a senhas e não posso compartilhar informações de outros clientes. Como posso ajudar com suas próprias finanças?]
+Não tenho acesso a senhas e não posso compartilhar informações de outros usuários. Como posso ajudar com suas próprias finanças?
 ```
 
 ---
@@ -113,12 +113,12 @@ Essas três categorias juntas representam cerca de 54% dos seus gastos mensais.
 
 **Usuário:**
 ```
-[ex: Onde devo investir meu dinheiro?]
+Onde devo investir meu dinheiro?
 ```
 
 **Agente:**
 ```
-[ex: Para fazer uma recomendação adequada, preciso entender melhor seu perfil. Você já preencheu seu questionário de perfil de investidor?]
+Para fornecer uma informação adequada, preciso entender melhor seu perfil, embrando que não posso fazer recomendações de investimentos.Você já preencheu seu questionário de perfil de investidor?
 ```
 
 ---
@@ -127,5 +127,5 @@ Essas três categorias juntas representam cerca de 54% dos seus gastos mensais.
 
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
-- [Observação 1]
-- [Observação 2]
+[Observação 1] Incluí exemplos de interação (Few-Shot Prompting) para reduzir risco de respostas fora de contexto.<br>
+[Observação 2] Reforcei regras de segurança e foco em perfil moderado para evitar sugestões inadequadas.
