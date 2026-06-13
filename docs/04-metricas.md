@@ -28,13 +28,17 @@ Crie testes simples para validar seu agente:
 
 ### Teste 1: Consulta de gastos
 - **Pergunta:** "Quanto gastei com alimentação?"
-- **Resposta esperada:** R$ 1.200,00 (baseado no arquivo `transacoes.csv`)
+- **Resposta esperada:** R$ 570,00 (baseado no arquivo `transacoes.csv`)
 - **Resultado:** [x] Correto  [ ] Incorreto
+
+<img width="791" height="612" alt="image" src="https://github.com/user-attachments/assets/3969b3ff-6912-4794-a810-6b71997d13b3" />
 
 ### Teste 2: Recomendação de produto
 - **Pergunta:** "Qual investimento você recomenda para mim?"
-- **Resposta esperada:** Produto compatível com o perfil do cliente
-- **Resultado:** [ ] Correto  [ ] Incorreto
+- **Resposta esperada:** Produto compatível com o perfil do cliente - Perfil: Moderado; Objetivo: Reserva de Emergência; Sugestão: Tesouro Selic e CDB com Líquidez Diária (baseado no arquivo `perfil_investidor.json`)
+- **Resultado:** [x] Correto  [ ] Incorreto
+
+<img width="770" height="659" alt="image" src="https://github.com/user-attachments/assets/bcfb02cf-5c7b-48c8-a4ae-07039ab02f86" />
 
 ### Teste 3: Pergunta fora do escopo
 - **Pergunta:** "Qual a previsão do tempo?"
