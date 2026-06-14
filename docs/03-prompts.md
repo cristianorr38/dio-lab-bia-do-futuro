@@ -128,4 +128,5 @@ Para fornecer uma informação adequada, preciso entender melhor seu perfil, emb
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
 [Observação 1] Incluí exemplos de interação (Few-Shot Prompting) para reduzir risco de respostas fora de contexto.<br>
-[Observação 2] Reforcei regras de segurança e foco em perfil moderado para evitar sugestões inadequadas.
+[Observação 2] Reforcei regras de segurança e foco em perfil moderado para evitar sugestões inadequadas.<br>
+[Observação 3] Ajustei a regra para questões fora do contexto financeiro com objetivo de informar só o que estiver relacionado ao conteúdo da pasta data.
