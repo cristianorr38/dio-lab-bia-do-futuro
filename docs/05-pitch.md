@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/3e0c866c-f590-48ae-ad6e-1a43f4c02fd4
 - [x] Problema claramente definido
 - [x] Solução demonstrada na prática
 - [x] Diferencial explicado
-- [x] Áudio e vídeo com boa qualidade
+- [x] Vídeo com boa qualidade
 
 ---
 
