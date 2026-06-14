@@ -8,7 +8,7 @@ Esta pasta contém exemplos de implementação para cada etapa do desafio.
 
 | Etapa | Descrição | Link |
 |-------|-----------|------|
-| Documentação | Como definir o caso de uso e arquitetura | [em breve] |
+| Documentação | Como definir o caso de uso e arquitetura | [https://github.com/cristianorr38/dio-lab-bia-do-futuro/blob/main/docs/01-documentacao-agente.md] |
 | Base de Conhecimento | Como usar os dados mockados | [em breve] |
 | Prompts | Como criar prompts eficazes | [em breve] |
 | Aplicação | Como criar o chatbot funcional | [em breve] |
