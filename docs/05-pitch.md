@@ -46,11 +46,11 @@ https://github.com/user-attachments/assets/3e0c866c-f590-48ae-ad6e-1a43f4c02fd4
 - [x] Problema claramente definido
 - [x] Solução demonstrada na prática
 - [x] Diferencial explicado
-- [x] Vídeo com boa qualidade
+- [x] Vídeo e Audio com boa qualidade
 
 ---
 
 ## Vídeo Completo
 > Cole aqui o vídeo do seu pitch (YouTube, Loom, Google Drive, etc.)
 
-https://github.com/user-attachments/assets/be691b80-5241-404c-80db-f78ec6ebaa94
+https://github.com/user-attachments/assets/5250d919-dee2-4136-b576-bca98d4a362a
